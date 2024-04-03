@@ -13,7 +13,7 @@ while True:
     hora_actual = datetime.datetime.now().strftime("%H:%M")
     verificar_hora(hora_actual, hora_alarma)
 
-
+    print("fin")
 
   
 

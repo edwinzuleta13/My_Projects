@@ -77,3 +77,4 @@ if __name__ == "__main__":
     print("piedra papel o tijera")
     print("****" * 5)
     main()
+    print("fin")

@@ -9,3 +9,4 @@ if __name__ == "__main__":
     
     resultado = contar_palabras(texto)
     print(f"El número de palabras en la frase es: {resultado}")
+    print("fin")
